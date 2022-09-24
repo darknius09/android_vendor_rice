@@ -115,7 +115,6 @@ PRODUCT_COPY_FILES += \
 # Themes
 PRODUCT_PACKAGES += \
     LineageBlackTheme \
-    ThemePicker
 
 # Config
 PRODUCT_PACKAGES += \
